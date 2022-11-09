@@ -194,3 +194,4 @@ vignettes/*.pdf
 *.knit.md
 .Rproj.user
 docs
+.DS_Store
